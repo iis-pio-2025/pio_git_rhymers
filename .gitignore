@@ -1,0 +1,13 @@
+# Ignorowanie folderów kompilacji
+bin/
+target/
+
+# Ignorowanie plików konfiguracyjnych Eclipse
+*.classpath
+*.project
+*.settings/
+
+# Ignorowanie plików systemowych
+.DS_Store
+Thumbs.db
+
